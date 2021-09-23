@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Laravel,Javascript
 - 📫 Reach me ydvipin99@gmail.com
-- ❤️ Coffee ☕️, Cycling 🚴‍♂️️, Travelling🚗, Music🎧🎵
+- ❤️ Tea/Coffee ☕️, Cycling 🚴‍♂️️, Travelling🚗, Music🎧🎵

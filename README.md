@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vipin Yadav a passionate Web Developer.
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning Laravel,Javascript
 - 📫 Reach me ydvipin99@gmail.com
+- ❤️ Coffee ☕️, Cycling 🚴‍♂️️, Travelling🚗, Music🎧🎵

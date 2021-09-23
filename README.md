@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Laravel,Javascript
 - 📫 Reach me ydvipin99@gmail.com
 - ❤️ Tea/Coffee ☕️, Cycling 🚴‍♂️️, Travelling🚗, Music🎧🎵
+- ⚙️ I use daily: .php, .js, .html, .css, .blade.php
